@@ -1,0 +1,31 @@
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Temporary and backup files
+*.tmp
+*.bak
+
+# Private working materials
+private/
+original_research_private/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
+
+# Power BI local temporary files
+*.pbit.lock
